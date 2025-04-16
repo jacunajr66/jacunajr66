@@ -9,17 +9,9 @@
 
 ## 🧠 About Me
 
-I’m a highly experienced IT professional with 30+ years of hands-on success in
-technical consulting, software development, and solution architecture — with a
-specialty in **merchandise planning** and **enterprise integrations**. My
-journey has spanned roles from software engineer to senior architect, with a
-deep focus on delivering scalable, high-impact solutions in the **retail,
-grocery, and fashion** industries.
+I am a seasoned IT consultant with over 30 years of experience in software development, solution architecture, and enterprise integrations, especially in merchandise planning. I’ve led cross-functional teams and delivered scalable solutions across retail, grocery, and fashion. These days, I’m focused on data engineering with Python, and expanding into cloud platforms like Azure and Snowflake. I specialize in turning complex challenges into clean, efficient systems — whether building from scratch or optimizing what’s already there.
 
-I’ve led multi-disciplinary teams, designed large-scale enterprise applications,
-mentored technical staff, and created tools that accelerate delivery and improve
-client success. Whether working on-site or remotely, I bring strategic vision,
-technical depth, and a customer-first mindset.
+Fun fact: In my spare time, I rebuild classic cars — I’ve completed full restomods on a ’69 Bronco and an ’69 F100, and I’m planning a Coyote-swapped ’69 Mustang Fastback as my retirement project.
 
 ---
 
