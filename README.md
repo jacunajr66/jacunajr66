@@ -17,20 +17,20 @@ Fun fact: In my spare time, I rebuild classic cars — I’ve completed full res
 
 ## 🛠 Technical Skills
 
-**Programming:** C, C#, Python, SQL, PL/SQL, Objective-C
-**Web & APIs:** HTML, JavaScript, JSON, XML, SOAP, REST
-**Frameworks:** .NET, ASP.NET, ADO.NET, NS Framework
-**Tools & Platforms:** Oracle, Git, JIRA, Blue Yonder, DataStage, Mulesoft
-**Cloud:** Azure (in progress), Snowflake (in progress)
+**Programming:** C, C#, Python, SQL, PL/SQL, Objective-C  
+**Web & APIs:** HTML, JavaScript, JSON, XML, SOAP, REST  
+**Frameworks:** .NET, ASP.NET, ADO.NET, NS Framework  
+**Tools & Platforms:** Oracle, Git, JIRA, Blue Yonder, DataStage, Mulesoft  
+**Cloud:** Azure (in progress), Snowflake (in progress)  
 
 ---
 
 ## 🧭 Leadership & Project Highlights
-• Led architecture and implementation for 10+ Blue Yonder merchandise planning deployments across retail, grocery, and fashion clients
-• Created the EP Batch Facility and EP Technical Toolkit, accelerating delivery and standardization across teams
-• Designed and delivered technical certification exams and reusable documentation templates for internal enablement
-• Managed high-visibility customer escalations and acted as primary technical liaison in enterprise environments
-• Mentored junior staff and helped onboard new team members into enterprise tools and practices
+- Led architecture and implementation for 10+ Blue Yonder merchandise planning deployments across retail, grocery, and fashion clients
+- Created the EP Batch Facility and EP Technical Toolkit, accelerating delivery and standardization across teams
+- Designed and delivered technical certification exams and reusable documentation templates for internal enablement
+- Managed high-visibility customer escalations and acted as primary technical liaison in enterprise environments
+- Mentored junior staff and helped onboard new team members into enterprise tools and practices
 
 ---
 
@@ -82,8 +82,7 @@ Fun fact: In my spare time, I rebuild classic cars — I’ve completed full res
 
 ## 📈 Looking Ahead
 
-I'm continuing to expand my expertise in **Python, data science, and AI-driven
-automation**, while staying grounded in solving real-world enterprise problems.
+I'm continuing to expand my expertise in **Python** and **data science**, while staying grounded in solving real-world enterprise problems.
 I love blending old-school fundamentals with emerging tech to create elegant,
 efficient solutions.
 
