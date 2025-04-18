@@ -11,7 +11,7 @@
 
 I am a seasoned IT consultant with over 30 years of experience in software development, solution architecture, and enterprise integrations, especially in merchandise planning. I’ve led cross-functional teams and delivered scalable solutions across retail, grocery, and fashion. These days, I’m focused on data engineering with Python, and expanding into cloud platforms like Azure and Snowflake. I specialize in turning complex challenges into clean, efficient systems — whether building from scratch or optimizing what’s already there.
 
-Fun fact: In my spare time, I rebuild classic cars — I’ve completed full restomods on a ’69 Bronco and an ’69 F100, and I’m planning a Coyote-swapped ’69 Mustang Fastback as my retirement project.
+Fun fact: In my spare time, I rebuild classic cars — I’ve completed full restomods on a ’69 Bronco and a ’69 F100, and I’m planning a Coyote-swapped ’69 Mustang Fastback as my retirement project.
 
 ---
 
