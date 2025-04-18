@@ -17,34 +17,45 @@ Fun fact: In my spare time, I rebuild classic cars — I’ve completed full res
 
 ## 🛠 Technical Skills
 
-**Languages:** C, C#, SQL, PL/SQL, Python (in progress), Objective-C, JavaScript, HTML/CSS, Shell Scripting, CLIPS, PL/1  
-**Frameworks & Tools:** .NET, ASP.NET, ADO.NET, REST, SOAP, JSON, XML, regex, NS Framework  
-**Databases:** Oracle  
-**OS & Environments:** Windows, Mac OS, NeXTStep, VOS, Visual Studio, Interface Builder  
-**Dev & Automation:** Postman, IBM Datastage, Mulesoft, BMC Control-M, Toad, SQL Developer, NUnit  
-**Source Control:** Git, GitHub, VSS, PVCS  
-**In Progress:** Python (Jupyter, VS Code, Anaconda, pip, pandas, matplotlib,
-scikit-learn, GitHub, BeautifulSoup, etc.)
+**Programming:** C, C#, Python, SQL, PL/SQL, Objective-C
+**Web & APIs:** HTML, JavaScript, JSON, XML, SOAP, REST
+**Frameworks:** .NET, ASP.NET, ADO.NET, NS Framework
+**Tools & Platforms:** Oracle, Git, JIRA, Blue Yonder, DataStage, Mulesoft
+**Cloud:** Azure (in progress), Snowflake (in progress)
+
+---
+
+## 🧭 Leadership & Project Highlights
+• Led architecture and implementation for 10+ Blue Yonder merchandise planning deployments across retail, grocery, and fashion clients
+• Created the EP Batch Facility and EP Technical Toolkit, accelerating delivery and standardization across teams
+• Designed and delivered technical certification exams and reusable documentation templates for internal enablement
+• Managed high-visibility customer escalations and acted as primary technical liaison in enterprise environments
+• Mentored junior staff and helped onboard new team members into enterprise tools and practices
 
 ---
 
 ## 💼 Experience Snapshot
 
-### 🔷 **Solution Architect II – UST / Blue Yonder** (2021–Present)
-- Led multiple full-cycle implementations of **Blue Yonder Enterprise Planning**
-- Built standardized tools, scripts, and templates to improve delivery timelines
-- Acted as a mentor, hiring lead, and key contributor to technical certification programs
-- Developed cloud/on-premise integration utilities and technical toolkits
-
-### 🔷 **Senior Technical Architect – Blue Yonder** (2010–2021)
-- Delivered end-to-end merchandise planning solutions for major clients (CVS, Express, L.L. Bean, etc.)
-- Integrated with IBM Datastage & Mulesoft; implemented scalable data solutions
-- Designed technical plans, led UAT, and managed post-Go Live hyper-care
-
-### 🔷 **Software Engineer IV – Stratus Technologies** (1998–2007)
-- Architected a call center infrastructure using Objective-C, NeXT, and .NET
-- Delivered global implementations and trained support staff
-- Recognized with Customer Service Excellence Award
+### 🔷 **Solution Architect II – Enterprise Solutions - UST – Salt Lake City Metropolitan Area (Remote) | May 2021 – February 2025
+- Oversaw technical activities for multiple merchandise planning implementations, ensuring timely delivery and quality results
+- Mentored technical staff and led hiring efforts to build high-performing teams
+- Created Blue Yonder certification exam and technical documentation templates to standardize implementation processes
+- Championed process improvements for integration, implementation, and documentation standards
+- Developed standard integration utilities and the Enterprise Planning Technical Toolkit to streamline cloud and on-premise deployments
+- Led technical meetings and contributed to presales engagements, including client-facing prototypes
+- Managed high-visibility critical customer tickets and trained support staff on Blue Yonder issue handling
+### 🔷 **Senior Technical Architect - Blue Yonder – Phoenix Metropolitan Area (Remote) | January 2010 – May 2021
+- Led merchandise planning solution implementations across fashion, grocery, and hardlines industries
+- Designed scalable solutions using Blue Yonder, DataStage, and Mulesoft for on-prem and cloud deployments
+- Authored technical design documents and integrated planning metrics and hierarchies
+- Conducted system integration testing, provided post-Go Live hyper-care support, and served as technical lead on server/database activities
+- Delivered user training and coordinated implementation timelines across stakeholders
+### 🔷 **Additional Experience (Condensed)
+- Senior Software Engineer – Blue Yonder, Scottsdale, AZ (Nov 2007 – Dec 2009)
+- Software Engineer IV – Stratus Technologies, Phoenix, AZ (Sep 1998 – Nov 2007)
+- Services Support Engineer IV – Stratus Technologies, Phoenix, AZ (May 1988 – Sep 1998)
+- Associate System Engineer – Stratus Technologies, Phoenix, AZ (May 1987 – May 1988)
+- Research Specialist – Citibank Arizona, Phoenix, AZ (Aug 1983 – May 1987)
 
 ---
 
