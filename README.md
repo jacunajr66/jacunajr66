@@ -21,7 +21,7 @@ Fun fact: In my spare time, I rebuild classic cars — I’ve completed full res
 **Web & APIs:** HTML, JavaScript, JSON, XML, SOAP, REST  
 **Frameworks:** .NET, ASP.NET, ADO.NET, NS Framework  
 **Tools & Platforms:** Oracle, Git, JIRA, Blue Yonder, DataStage, Mulesoft  
-**Cloud:** Azure (in progress), Snowflake (in progress)  
+**Cloud:** Azure (upcoming), Snowflake (upcoming)  
 
 ---
 
@@ -74,8 +74,8 @@ Fun fact: In my spare time, I rebuild classic cars — I’ve completed full res
   - Python Fundamentals – March 2025  
   - Data Analysis & Visualization – March 2025  
   - Automation & Scripting – April 2025
-  - Web Development with Python – in progress
-  - Advanced Python Development Techniques – upcoming
+  - Web Development with Python – April 2025
+  - Advanced Python Development Techniques – in progress
   - Project Development in Python – upcoming
 
 ---
