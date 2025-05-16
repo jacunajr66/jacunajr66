@@ -75,8 +75,8 @@ Fun fact: In my spare time, I rebuild classic cars — I’ve completed full res
   - Data Analysis & Visualization – March 2025  
   - Automation & Scripting – April 2025
   - Web Development with Python – April 2025
-  - Advanced Python Development Techniques – in progress
-  - Project Development in Python – upcoming
+  - Advanced Python Development Techniques – May 2025
+  - Project Development in Python – in progress
 
 ---
 
