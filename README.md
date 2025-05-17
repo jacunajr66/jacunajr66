@@ -19,7 +19,7 @@ Fun fact: In my spare time, I rebuild classic cars — I’ve completed full res
 
 **Programming:** C, C#, Python, SQL, PL/SQL, Objective-C  
 **Web & APIs:** HTML, JavaScript, JSON, XML, SOAP, REST  
-**Frameworks:** .NET, ASP.NET, ADO.NET, AppKit, EO Framework
+**Frameworks:** .NET, ASP.NET, ADO.NET, AppKit, EO Framework  
 **Tools & Platforms:** Oracle, Git, JIRA, Blue Yonder, DataStage, Mulesoft  
 **Cloud:** Azure (upcoming), Snowflake (upcoming)  
 
