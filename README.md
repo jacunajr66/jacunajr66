@@ -9,7 +9,11 @@
 
 ## 🧠 About Me
 
-I am a seasoned IT consultant with over 30 years of experience in software development, solution architecture, and enterprise integrations, especially in merchandise planning. I’ve led cross-functional teams and delivered scalable solutions across retail, grocery, and fashion. These days, I’m focused on data engineering with Python, and expanding into cloud platforms like Azure and Snowflake. I specialize in turning complex challenges into clean, efficient systems — whether building from scratch or optimizing what’s already there.
+I’m a results-driven IT professional with over 30 years of experience spanning software architecture, technical leadership, and implementation consulting. My expertise lies in designing and delivering large-scale, enterprise-grade applications — with a deep focus on merchandise planning and Blue Yonder SaaS-based Enterprise Planning implementations across the retail, grocery, and fashion industries.
+
+Throughout my career, I’ve led cross-functional teams, mentored developers, resolved high-visibility escalations, and driven technical process improvements that enhance both system performance and customer satisfaction. I bring a builder’s mindset to every project: breaking down complex challenges and delivering efficient, scalable solutions.
+
+Currently, I’m focused on expanding into data engineering, Python-based automation, and modern cloud platforms like Azure and Snowflake — with a goal of bridging legacy expertise and future-ready architecture.
 
 Fun fact: In my spare time, I rebuild classic cars — I’ve completed full restomods on a ’69 Bronco and a ’69 F100, and I’m planning a Coyote-swapped ’69 Mustang Fastback as my retirement project.
 
