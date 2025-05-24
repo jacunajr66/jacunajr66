@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm John Acuña
 
-🎯 **Solution Architect | Technical Leader | Software Engineer**  
+🎯 **Software Architect & Technical Consultant | Blue Yonder SaaS & Enterprise Planning Expert | Scalable Systems | Evolving into Data Engineering & Cloud (Azure | Snowflake)**  
 📍 Based in the U.S. | 🌐 Over 30 years in IT and enterprise software  
 📫 jacunajr66@gmail.com | [LinkedIn](https://www.linkedin.com/in/john-acuña-36326b1/)  
 
