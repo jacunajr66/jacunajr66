@@ -15,7 +15,7 @@ Throughout my career, I’ve led cross-functional teams, mentored developers, re
 
 Currently, I’m focused on expanding into data engineering, Python-based automation, and modern cloud platforms like Azure and Snowflake — with a goal of bridging legacy expertise and future-ready architecture.
 
-Fun fact: In my spare time, I rebuild classic cars — I’ve completed full restomods on a ’69 Bronco and a ’69 F100, and I’m planning a Coyote-swapped ’69 Mustang Fastback as my retirement project.
+Fun fact: In my spare time, I rebuild classic cars — I’ve completed full restomods on a ’69 Bronco and a ’69 F100, and I’m planning a Coyote-swapped ’69 Mustang Fastback as my retirement project.  Here is a link to my 1969 Ford Bronco videos: https://www.youtube.com/@FordBronco-tf8zv.
 
 ---
 
