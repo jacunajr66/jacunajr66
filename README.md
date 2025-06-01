@@ -74,13 +74,13 @@ Fun fact: In my spare time, I rebuild classic cars — I’ve completed full res
 ## 🎓 Education & Certifications
 
 - **B.S. in Computer Information Systems** – DeVry University  
-- **Microsoft Python Developer Professional Certificate (in progress)**  
+- **Microsoft Python Developer Professional Certificate - May 2025**  
   - Python Fundamentals – March 2025  
   - Data Analysis & Visualization – March 2025  
   - Automation & Scripting – April 2025
   - Web Development with Python – April 2025
   - Advanced Python Development Techniques – May 2025
-  - Project Development in Python – in progress
+  - Project Development in Python – May 2025
 
 ---
 
