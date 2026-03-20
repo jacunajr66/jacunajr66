@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm John Acuña
 
-🎯 **Software Architect & Technical Consultant | Blue Yonder SaaS & Enterprise Planning Expert | Scalable Systems | Evolving into Data Engineering & Cloud (Azure | Snowflake)**  
+🎯 **Enterprise Technical Architect | Supply Chain & Planning Systems | Blue Yonder & Centric Software Platforms | Scalable SaaS Systems**  
 📍 Based in the U.S. | 🌐 Over 30 years in IT and enterprise software  
 📫 jacunajr66@gmail.com | [LinkedIn](https://www.linkedin.com/in/john-acuña-36326b1/)  
 
@@ -13,7 +13,7 @@ I’m a results-driven IT professional with over 30 years of experience spanning
 
 Throughout my career, I’ve led cross-functional teams, mentored developers, resolved high-visibility escalations, and driven technical process improvements that enhance both system performance and customer satisfaction. I bring a builder’s mindset to every project: breaking down complex challenges and delivering efficient, scalable solutions.
 
-Currently, I’m focused on expanding into data engineering, Python-based automation, and modern cloud platforms like Azure and Snowflake — with a goal of bridging legacy expertise and future-ready architecture.
+I’m excited to begin my next chapter with Centric Software, where I’m applying my experience in enterprise planning systems to a modern, product-centric platform. This transition expands my perspective across the planning landscape while continuing to focus on scalable SaaS solutions that drive real business value. I look forward to contributing to innovative implementations and helping organizations modernize their planning capabilities.
 
 Fun fact: In my spare time, I rebuild classic cars — I’ve completed full restomods on a ’69 Bronco and a ’69 F100, and I’m planning a Coyote-swapped ’69 Mustang Fastback as my retirement project.  Here is a link to my 1969 Ford Bronco videos: https://www.youtube.com/@FordBronco-tf8zv.
 
@@ -40,6 +40,16 @@ Fun fact: In my spare time, I rebuild classic cars — I’ve completed full res
 
 ## 💼 Experience Snapshot
 
+
+### 🔷 **Technical Architect – Centric Software – Salt Lake City Metropolitan Area (Remote) | Mar 2026 – Present
+- Lead architecture and technical direction for enterprise-scale planning systems
+- Design scalable solutions aligned to business and operational requirements
+- Deliver end-to-end implementations (configuration, deployment, integration, support)
+- Build and document integrations between platforms and third-party systems
+- Bridge product engineering and delivery to solve complex technical challenges
+- Mentor teams and promote best practices for scalable, high-quality systems
+- Drive solution optimization, reusable patterns, and continuous improvement
+- Partner with stakeholders to deliver reliable, high-impact outcomes
 ### 🔷 **Solution Architect II – Enterprise Solutions - UST – Salt Lake City Metropolitan Area (Remote) | May 2021 – February 2025
 - Oversaw technical activities for multiple merchandise planning implementations, ensuring timely delivery and quality results
 - Mentored technical staff and led hiring efforts to build high-performing teams
@@ -81,14 +91,6 @@ Fun fact: In my spare time, I rebuild classic cars — I’ve completed full res
   - Web Development with Python – April 2025
   - Advanced Python Development Techniques – May 2025
   - Project Development in Python – May 2025
-
----
-
-## 📈 Looking Ahead
-
-I'm continuing to expand my expertise in **Python** and **data science**, while staying grounded in solving real-world enterprise problems.
-I love blending old-school fundamentals with emerging tech to create elegant,
-efficient solutions.
 
 ---
 
